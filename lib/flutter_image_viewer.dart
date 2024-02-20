@@ -1,0 +1,1 @@
+library flutter_image_viewer;
